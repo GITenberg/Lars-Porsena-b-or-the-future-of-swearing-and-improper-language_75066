@@ -1,0 +1,39 @@
+_repo: Lars-Porsena-b-or-the-future-of-swearing-and-improper-language_75066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graves, Robert
+    aliases:
+    - Ranke-Graves, Robert von
+    - Doyle, John
+    - Graves, Robert von Ranke
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '628'
+    url: http://www.gutenberg.org/2009/agents/628
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Graves
+description: ''
+gutenberg_issued: '2025-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75066'
+  lccn: '27015679'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.264751
+pgterms:marc905: 20230201052602graves
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Produced by Tim Lindell, Donald Cummings and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Swearing'
+- !lcc 'GT'
+- GITenberg
+title: 'Lars Porsena : $b or, the future of swearing and improper language'
+url: http://www.gutenberg.org/ebooks/75066
